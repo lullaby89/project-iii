@@ -36,7 +36,7 @@ p {
   background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
   background: -ms-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
   padding: 10px;
-  line-height: 28px;
+  line-height: 22px;
   text-align: justify;
   position: absolute;
   bottom: 0;
