@@ -1,0 +1,3 @@
+# project-iii
+
+BUSINESS SITE: a training course/project on the design of a website for a small business using HTML, CSS and jQuery...
